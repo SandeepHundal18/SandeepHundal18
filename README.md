@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://github.com/SandeepHundal18/SandeepHundal18/blob/main/header.png
-" alt="banner that Sandeep Kaur - a data scientist">
+
+![alt text](https://github.com/SandeepHundal18/SandeepHundal18/blob/main/header.png)
 
 <!--
 **SandeepHundal18/SandeepHundal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
