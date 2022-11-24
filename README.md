@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![alt text](https://github.com/SandeepHundal18/SandeepHundal18/blob/main/header.png)
 
